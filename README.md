@@ -1,4 +1,4 @@
-# field-trip
+# field-trip (Scheme-in-C)
 
 In this repository I explore many things around implementing semantics, including
 * the gist of ParentheC
